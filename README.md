@@ -41,7 +41,7 @@ Contribuições são sempre bem-vindas! Se você tem alguma sugestão para melho
 Se você gostou do projeto e do vídeo, por favor, **compartilhe com seus amigos e nas redes sociais**. Ajude a divulgar o conhecimento e o Canal da Hcode no YouTube! 📢
 
 Não esqueça de nos seguir no YouTube para mais conteúdos incríveis como este:
-- [Canal da Hcode](http://link-para-o-canal-da-hcode-aqui.com)
+- [Canal da Hcode]([http://link-para-o-canal-da-hcode-aqui.com](https://www.youtube.com/hcodebrasil?sub_confirmation=1))
 
 ## 📩 Contato
 
