@@ -1,6 +1,6 @@
 # Vagrant com Windows 10 🎥
 
-[![Vagrant Simplificado 🛠️: Seu Guia Passo a Passo 📚 Para Automação de Ambientes Virtuais 🌐](https://i3.ytimg.com/vi/BeamdrH-YEA/maxresdefault.jpg "Assista ao vídeo")](https://youtu.be/BeamdrH-YE)
+[![Vagrant Simplificado 🛠️: Seu Guia Passo a Passo 📚 Para Automação de Ambientes Virtuais 🌐](https://i3.ytimg.com/vi/BeamdrH-YEA/maxresdefault.jpg "Assista ao vídeo")]([https://youtu.be/BeamdrH-YEA](https://youtu.be/BeamdrH-YEA))
 
 Bem-vindo ao repositório do projeto Vagrant desenvolvido exclusivamente para o vídeo **Vagrant Simplificado 🛠️: Seu Guia Passo a Passo 📚 Para Automação de Ambientes Virtuais 🌐**! Este vídeo apresenta uma introdução ao Vagrant, uma ferramenta para o provisionamento automático de máquinas virtuais, e sua aplicabilidade mesmo na era do Docker. João Rangel, do canal da H Code, guia os espectadores através dos fundamentos do Vagrant, demonstrando como ele pode simplificar o processo de configuração de ambientes de desenvolvimento. 🌐✨
 
